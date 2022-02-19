@@ -1,3 +1,12 @@
+#include <algorithm>
+#include <chrono>
+#include <cstdlib>
+#include <cstring>
+#include <iostream>
+#include <memory>
+#include <random>
+#include <vector>
+
     //constexpr unsigned int L = 1 << 24, N = 1 << 20; // Use with options A, B
     constexpr unsigned int L = 1 << 18, N = 1 << 14;  // Use with option C
     //constexpr unsigned int L = 1 << 22, N = 1 << 18;  // Use with option C, takes longer

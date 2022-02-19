@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "*.js": "javascript",
+    "01_deque.C": "cpp",
+    "02_index_tree.C": "cpp",
+    "01_read.C": "cpp",
+    "01b_cache_random_write.C": "cpp",
+    "00_substring_sort_prep.C": "cpp",
+    "01_substring_sort_a.C": "cpp",
+    "01_substring_sort.C": "cpp"
+  }
+}
