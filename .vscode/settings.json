@@ -7,6 +7,10 @@
     "01b_cache_random_write.C": "cpp",
     "00_substring_sort_prep.C": "cpp",
     "01_substring_sort_a.C": "cpp",
-    "01_substring_sort.C": "cpp"
+    "01_substring_sort.C": "cpp",
+    "11_compare_mbm_b.C": "cpp",
+    "05a_compare_timer.C": "cpp",
+    "05_compare_timer.C": "cpp",
+    "chrono": "cpp"
   }
 }
